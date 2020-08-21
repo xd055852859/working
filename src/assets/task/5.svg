@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-11">
+            <circle id="椭圆形-copy-10" fill="#555555" cx="13" cy="13" r="12"></circle>
+            <path d="M13,25.5 C6.09644063,25.5 0.5,19.9035594 0.5,13 C0.5,6.09644063 6.09644063,0.5 13,0.5 C19.9035594,0.5 25.5,6.09644063 25.5,13 C25.5,19.9035594 19.9035594,25.5 13,25.5 Z M13,24.5 C19.3512746,24.5 24.5,19.3512746 24.5,13 C24.5,6.64872538 19.3512746,1.5 13,1.5 C6.64872538,1.5 1.5,6.64872538 1.5,13 C1.5,19.3512746 6.64872538,24.5 13,24.5 Z" id="椭圆形-copy-5" fill="#555555" fill-rule="nonzero" transform="translate(13.000000, 13.000000) rotate(-270.000000) translate(-13.000000, -13.000000) "></path>
+            <path d="M13,12.5 C19.9035594,12.5 25.5,18.0964406 25.5,25 L25.5,25.5 L12.5,25.5 L12.5,12.5 L13,12.5 Z" id="合并形状-copy-3" fill="#D8D8D8" fill-rule="nonzero" transform="translate(19.000000, 19.000000) rotate(-270.000000) translate(-19.000000, -19.000000) "></path>
+            <path d="M13.5,13.5106742 L13.5,24.5 L24.4893258,24.5 C24.2346396,18.5464736 19.4535264,13.7653604 13.5,13.5106742 Z M13,12.5 C19.9035594,12.5 25.5,18.0964406 25.5,25 L25.5,25.5 L12.5,25.5 L12.5,12.5 L13,12.5 Z" id="合并形状-copy-3" fill="#555555" fill-rule="nonzero" transform="translate(19.000000, 19.000000) rotate(-270.000000) translate(-19.000000, -19.000000) "></path>
+        </g>
+    </g>
+</svg>

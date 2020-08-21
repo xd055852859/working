@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="43px" viewBox="0 0 45 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.1087616,42.48 C3.64874904,42.48 3.19249511,42.3163332 2.82998594,41.9965133 C2.19875656,41.4404528 1.99123575,40.5384069 2.31624703,39.7587907 L5.49503418,32.1436214 C1.93998567,28.6140227 0,24.1448538 0,19.4208366 C0,8.71213035 10.0937447,0 22.4999779,0 C34.9062553,0 44.9999558,8.71213035 45,19.4208366 C45,30.1295429 34.9062553,38.8417174 22.4999779,38.8417174 C19.4118401,38.8526786 16.3477134,38.2992258 13.458739,37.2087178 L5.09874152,42.2051299 C4.79977537,42.3847082 4.45756281,42.4797348 4.1087616,42.48" id="path-1"></path>
+        <linearGradient x1="0%" y1="74.9938965%" x2="100%" y2="97.5784302%" id="linearGradient-3">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#D4D4D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="39.2242432%" x2="0%" y2="39.2242432%" id="linearGradient-4">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#ECECEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-42.5537109%" y1="126.435852%" x2="100%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#ECECEC" stop-opacity="0.496433424" offset="0%"></stop>
+            <stop stop-color="#C9C9C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="34.2819214%" y2="112.397766%" id="linearGradient-7">
+            <stop stop-color="#ECECEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-119.000000, -570.000000)">
+            <g id="Group-15-Copy" transform="translate(119.000000, 570.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D1D2D8" xlink:href="#path-1"></use>
+                    <g style="mix-blend-mode: multiply;" mask="url(#mask-2)">
+                        <g transform="translate(-1.440000, -3.600000)">
+                            <rect id="Rectangle-7" fill="url(#linearGradient-3)" x="0" y="0.045" width="23.9406899" height="23.7375"></rect>
+                            <rect id="Rectangle-7-Copy" fill="url(#linearGradient-4)" x="23.9393101" y="0.045" width="23.9406899" height="23.7375"></rect>
+                            <rect id="Rectangle-7-Copy-3" fill="url(#linearGradient-5)" x="0" y="23.7825" width="23.9406899" height="23.7375"></rect>
+                            <rect id="Rectangle-7-Copy-4" fill="url(#linearGradient-6)" x="0" y="23.7825" width="23.9406899" height="23.7375"></rect>
+                            <rect id="Rectangle-7-Copy-2" fill="url(#linearGradient-5)" x="23.9393101" y="23.7825" width="23.9406899" height="23.7375"></rect>
+                            <rect id="Rectangle-7-Copy-5" fill="url(#linearGradient-7)" x="23.9393101" y="23.7825" width="23.9406899" height="23.7375"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(6.750000, 12.600000)">
+                    <polygon id="Fill-3" fill="#FFFFFF" points="10.6617202 4.68 5.04 4.68 7.75830306 17.55 13.41 17.55"></polygon>
+                    <polygon id="Fill-5" fill="#FFFFFF" points="13.7604714 5.22 9.18 17.55 14.229043 17.55 18.81 5.22"></polygon>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="13.95 5.22 16.5731568 17.55 21.6 17.55 18.9479597 5.22"></polygon>
+                    <polygon id="Fill-9" fill="#FFFFFF" points="24.0994359 0 29.61 0 23.0600765 17.55 17.55 17.55"></polygon>
+                    <path d="M11.429779,8.19 L11.43,8.18986889 L10.6692741,4.68 L5.04,4.68 L5.38433367,6.28689265 C8.20314836,6.0873913 11.1029515,6.6815688 11.429779,8.19" id="Fill-11" fill="#9B9B9B"></path>
+                    <path d="M11.43,8.19 C11.336341,7.75554136 10.3047627,2.98110939 10.3047627,2.98110939 C9.66049149,-3.55271368e-15 8.01955369,-3.55271368e-15 6.32589392,-3.55271368e-15 L0.264108916,-3.55271368e-15 C0.264108916,-3.55271368e-15 -0.83002684,5.08605247 4.87422352,5.08605247 L5.08772531,5.08605247 C7.12735633,5.08605247 10.6968546,4.7951686 11.43,8.19" id="Fill-13" fill="#EFECEC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="bootpage" id="bootpage">
+        <div class="bootpage-logo">
+            <img src="logo2.svg" style="fontSize:80px" />
+        </div>
+        <div class="bootpage-content">
+            <div class="bootpage-image">
+                <img src="bootpage.png" alt />
+            </div>
+            <div class="bootpage-title">
+                <img src="boottitle.png" alt />
+            </div>
+            <div class="bootpage-button" @click="toLogin">开始工作</div>
+        </div>
+        <div class="bootpage-video">
+            <video autoplay ="autoplay" loop="loop" muted="muted">
+                <source src="earth-video.mp4" type="video/mp4" />
+            </video>
+        </div>
+        <div onclick="toUrl()" class="bootpage-footer">©2019 江苏时光信息科技有限公司 Qingtime All Rights Reserved 苏ICP备15006448号
+        </div>
+    </div>
+</body>
+<script>
+    function toUrl() {
+        window.open("http://www.beian.miit.gov.cn/");
+    };
+</script>
+<style>
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+    }
+
+    .bootpage {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .bootpage-logo {
+        position: absolute;
+        top: 2.4%;
+        left: 4%;
+    }
+
+    .bootpage-content {
+        width: 35%;
+        height: 100%;
+        margin-left: 12%;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        text-align: center;
+        position: relative;
+    }
+
+    .bootpage-image {
+        width: 100%;
+        height: 11%;
+        overflow: hidden;
+        margin-bottom: 2.2%;
+    }
+
+    .bootpage-image img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .bootpage-title {
+        width: 100%;
+        height: 30px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        margin-bottom: 3.7%;
+    }
+
+    .bootpage-title img {
+        width: 70%;
+        object-fit: cover;
+    }
+
+    .bootpage-button {
+        width: 200px;
+        height: 60px;
+        line-height: 60px;
+        text-align: center;
+        font-size: 18px;
+        color: #ffffff;
+        background-color: #1aca8e;
+        border-radius: 30px;
+    }
+
+    .bootpage-video {
+        /* height: 100%; */
+        position: fixed;
+        width: 50%;
+        height: 100%;
+        top: 0px;
+        right: -28%;
+        overflow: hidden;
+        border-radius: 50%;
+        box-shadow: -11px 0 0 50px hsla(0, 0%, 100%, 0.09),
+            -3px 0 0 20px hsla(0, 0%, 100%, 0.13), 0 0 0 9px hsla(0, 0%, 100%, 0.09),
+            9px 9px 50px 20px rgba(95, 95, 132, 0.88),
+            -102px 110px 100px 17px rgba(44, 44, 75, 0.3);
+    }
+
+    .bootpage-video video {
+        /* border-radius: 50%; */
+        /* box-shadow: -11px 0 0 50px hsla(0, 0%, 100%, 0.09),
+          -3px 0 0 20px hsla(0, 0%, 100%, 0.13), 0 0 0 9px hsla(0, 0%, 100%, 0.09),
+          9px 9px 50px 20px rgba(95, 95, 132, 0.88),
+          -102px 110px 100px 17px rgba(44, 44, 75, 0.3); */
+        margin-left: -25%;
+    }
+
+    .bootpage-footer {
+        width: 100%;
+        height: 22px;
+        font-size: 16px;
+        color: #cacad9;
+        position: fixed;
+        left: 12.2%;
+        bottom: 3.6%;
+    }
+</style>
+
+</html>
