@@ -18,7 +18,7 @@
     "core-js": "^2.6.5",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "qiniu-js": "^2.5.5",
     "sass-loader": "^8.0.2",
     "tree-graph-vue": "^1.0.4",
